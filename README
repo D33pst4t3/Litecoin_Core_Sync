@@ -1,0 +1,13 @@
+Installation
+
+Download all the files.
+
+Download and install 7zip "https://www.7-zip.org/download.html".
+
+For windows extract "blocks.zip.001", "chainstate.zip.001" and "indexes.zip.001" to "%APPDATA%\Litecoin".
+
+For linux extract "blocks.zip.001", "chainstate.zip.001" and "indexes.zip.001" to "$HOME/.litecoin".
+
+For macOS extract "blocks.zip.001", "chainstate.zip.001" and "indexes.zip.001" to "$HOME/Library/Application Support/Litecoin".
+
+Done.
